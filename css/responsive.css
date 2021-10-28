@@ -1,0 +1,420 @@
+@media only screen and (max-width: 1199px) { 
+	.w-left-parts h4 {
+		font-size: 52px;
+	}
+	.w-right-part p {
+		font-size: 23px;
+	}
+	.warranty-details h4 {
+		font-size: 25px;
+		margin-top: 30px;
+	}
+	.warranty-details p {
+		margin-top: 20px;
+		font-size: 15px;
+	}
+	.warranty-logo {
+		top: -11%;
+	}
+	.call-us h3 , .request-call h3 {
+		font-size: 35px;
+	}
+	.call-us p, .request-call p {
+		padding: 0;
+		font-size: 21px;
+	}
+	.call-us a, .request-call a {
+		font-size: 17px;
+	}
+	.enquiry-left {
+		padding: 70px 40px;
+	}
+	.enquiry-left h4 {
+		font-size: 35px;
+	}
+	#scroll {
+		right: 20px;
+		bottom: 50px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.logo img {
+		max-width: 110px;
+	}
+	.banner-content {
+		margin-top: 90px;
+	}
+	.insurance-left-details p {
+		font-size: 16px;
+	}
+	.insurance-left {
+		margin-top: 110px;
+	}
+	.w-left-parts {
+		width: 38%;
+	}
+	.w-right-part {
+		width: 62%;
+	}
+	.w-right-part p {
+		font-size: 19px;
+	}
+	.service {
+		padding: 60px 0 90px 0;
+	}
+	.service-content h2 {
+		font-size: 35px;
+	}
+	.service-content p {
+		font-size: 15px;
+	}
+	.service-box span {
+		padding: 0 10px;
+	}
+	.get-in-touch {
+		padding: 80px 25px 50px 25px;
+	}
+	.get-in-touch h4 {
+		font-size: 32px;
+	}
+	.installation {
+		height: 500px;
+	}
+	.installation-content h4 {
+		font-size: 30px;
+	}
+	.installation .i-video {
+		width: calc(50% - 30px);
+	}
+	.play-icon a {
+		width: 70px;
+		height: 70px;
+	}
+	.play-icon a img {
+		width: 28px;
+	}
+	.play-icon label {
+		margin-top: 0;
+	}
+	.request-left-details {
+		margin-top: 30px;
+	}
+	.request-left-details h3 {
+		font-size: 35px;
+		line-height: 50px;
+		margin-bottom: 30px;
+	}
+	.request-left-details span {
+		font-size: 35px;
+	}
+	.request-left-details p {
+		font-size: 15px;
+	}
+	.request-right-details h5 {
+		font-size: 25px;
+	}
+	.request-right-details p{
+		font-size: 15px;
+	}
+	.request {
+		padding-bottom: 90px;
+	}
+	.warranty-logo {
+		position: unset;
+	}
+	.warranty-details h4 {
+		margin-top: 0;
+	}
+	.warranty {
+		padding: 30px 0;
+	}
+	.warranty-details h4 {
+		font-size: 22px;
+	}
+	.warranty-details p {
+		font-size: 14px;
+	}
+	.warranty-bottom {
+		padding: 60px 0;
+	}
+	.warranty-bottom-details span {
+		font-size: 20px;
+	}
+	.call-us h3, .request-call h3 {
+		font-size: 30px;
+	}
+	.call-us p, .request-call p {
+		font-size: 18px;
+	}
+	.call {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+	.enquiry-left {
+		padding: 50px 40px;
+	}
+	.enquiry-left h4 {
+		font-size: 25px;
+	}
+	.enquiry-left p {
+		font-size: 15px;
+	}
+	.enquiry-right {
+		width: 95%;
+		margin-top: 40px;
+	}
+	.enquiry-right p {
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.insurance-company {
+		margin-top: 0;
+	}
+	.insurance {
+		padding: 50px 20px;
+	}
+	.winter-part {
+		height: unset;
+	}
+	.w-left-parts {
+		height: unset;
+		float: unset;
+		display: inline-block;
+		width: 100%;
+		text-align: center;
+	}
+	.w-left-parts::after {
+		background: unset;
+	}
+	.w-left-parts h4 {
+		font-size: 42px;
+	}
+	.w-right-part {
+		height: unset;
+		float: unset;
+		display: inline-block;
+		width: 100%;
+		padding: 30px 20px;
+	}
+	.w-right-part::after {
+		background: unset;
+	}
+	.service-box {
+		border-right: unset;
+	}
+	.service-content h2 {
+		font-size: 30px;
+	}
+	.footer-form {
+		width: 100%;
+	}
+	.insurance-left {
+		margin-top: 50px;
+	}
+	.insurance-left-details {
+		padding-left: 40px;
+	}
+	.insurance-left-details::after {
+		left: 0;
+	}
+	.installation {
+		flex-direction: column;
+		height: unset;
+	}
+	.installation .i-video {
+		position: relative;
+		width: 100%;
+		margin-top: 30px;
+		padding-left: 33px;
+	}
+	.installation .i-video img {
+		width: 100%;
+	}
+	.installation .i-video {
+		margin-top: 150px;
+	}
+	.small-video {
+		position: absolute;
+		left: 0;
+		z-index: 999;
+		top: 320px;
+	}
+	.play-icon a img {
+		width: 28px !important;
+	}
+	.insurance-company {
+		padding-bottom: 0;
+	}
+	.request {
+		padding-top: 0;
+	}
+	.request-left {
+		margin-top: 0;
+	}
+	.warranty {
+		padding: 50px 0;
+		height: unset;
+		text-align: center;
+	}
+	.warranty-logo img {
+		max-width: 140px;
+	}
+	.warranty-details {
+		margin-top: 20px;
+	}
+	
+	.call {
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	.enquiry {
+		flex-direction: column;
+	}
+	.enquiry-left {
+		position: unset;
+		width: 100%;
+		height: unset;
+	}
+	.enquiry-right {
+		width: 100%;
+	}
+	.call-ok {
+		margin: 20px 0;
+	}
+	.call-ok::before { 
+		position: unset;
+	}
+	.call-ok::after { 
+		position: unset;
+	}
+}
+@media only screen and (max-width: 575px) {
+	.banner {
+		height: 450px;
+	}
+	.logo img {
+		max-width: 80px;
+	}
+	.banner-content {
+		margin-top: 60px;
+	}
+	.banner-content h1 {
+		font-size: 20px;
+	}
+	.banner-content span {
+		font-size: 25px;
+	}
+	.banner-btn {
+		margin-top: 40px;
+	}
+	.call-now {
+		margin-right: 0;
+		display: block;
+	}
+	.get-a-quote {
+		display: block;
+		margin-top: 20px;
+	}
+	.call-now a {
+		font-size: 16px;
+	}
+	.get-a-quote a {
+		font-size: 16px;
+	}
+	.do-not-cover p {
+		font-size: 33px;
+	}
+	.do-not-cover span {
+		font-size: 33px;
+	}
+	.insurance-left {
+		margin-top: 50px;
+	}
+	.insurance-left-details p {
+		font-size: 14px;
+	}
+	.insurance-content {
+		margin-bottom: 30px;
+	}
+	.installation-content h4 {
+		font-size: 20px;
+	}
+	.installation-content p {
+		font-size: 14px;
+	}
+	.button-icon img {
+		max-width: 100%;
+	}
+	.small-video {
+		top: 290px;
+	}
+	.installation .i-video {
+		padding-left: 15px;
+	}
+	.installation .i-video {
+		margin-top: 170px;
+	}
+	.request-right {
+		padding-left: 20px;
+	}
+	.request-form input {
+		font-size: 14px;
+	}
+	.warranty-bottom {
+		padding: 50px 0;
+	}
+	.warranty-bottom-details span {
+		font-size: 16px;
+	}
+	.call-us h3, .request-call h3 {
+		font-size: 25px;
+	}
+	.get-in-touch h4 {
+		font-size: 25px;
+	}
+	.get-in-touch a {
+		padding-left: 50px;
+		font-size: 19px;
+	}
+	.w-right-part p {
+		font-size: 17px;
+	}
+	.w-right-part a {
+		font-size: 16px;
+	}
+	.service-content h2 {
+		font-size: 19px;
+	}
+	.service-content p {
+		max-width: 100%;
+		margin-top: 30px;
+	}	
+	.service-box {
+		height: 145px;
+		overflow: hidden;
+	}
+	.f-logo {
+		width: 40px;
+		margin-top: 30px;
+		margin-right: 15px;
+	}
+	.f-logo-detail span {
+		font-size: 13px;
+	}
+	.f-logo-detail {
+		margin-top: 30px;
+	}
+	.f-logo-detail label {
+		font-size: 13px;
+	}
+	.f-logo-detail label {
+		margin-top: 2px;
+	}
+	.enquiry-left h4 {
+		font-size: 20px;
+	}
+	footer {
+		padding-bottom: 30px;
+	}
+}	
